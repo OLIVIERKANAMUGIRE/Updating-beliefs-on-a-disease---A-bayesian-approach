@@ -15,7 +15,7 @@ A modular Python implementation for understanding Bayesian inference through sim
 ### Installation
 ```bash
 # Clone or download the project
-cd bayesian_malaria_project
+git clone https://github.com/OLIVIERKANAMUGIRE/Updating-beliefs-on-a-disease---A-bayesian-approach
 
 # Install dependencies
 pip install -r requirements.txt
@@ -26,13 +26,14 @@ pip install -r requirements.txt
 python scripts/run_analysis.py
 ```
 
-## 📊 What It Does
+## What It Does
 
 1. **Simulates** malaria test data with known prevalence
 2. **Computes** likelihood, prior, and posterior distributions
 3. **Compares** flat vs informative priors
 4. **Visualizes** Bayesian updating process
 5. **Generates** publication-quality plots
+   ![Prior sensitivity](https://github.com/OLIVIERKANAMUGIRE/Updating-beliefs-on-a-disease---A-bayesian-approach/blob/main/outputs/prior_sensitivity.png)
 
 ## 🎓 Learning Objectives
 
@@ -41,10 +42,6 @@ python scripts/run_analysis.py
 - See how posteriors combine prior + data
 - Explore prior sensitivity
 - Visualize statistical concepts
-
-## 📁 Project Structure
-
-See project structure diagram above for complete file organization.
 
 ## ⚙️ Configuration
 
