@@ -74,10 +74,6 @@ config.PRIOR_INFO_ALPHA = 5
 config.PRIOR_INFO_BETA = 5
 ```
 
-## 📈 Output
-
-- **Plots**: Saved to `outputs/` directory
-- **Console**: Summary statistics and credible intervals
 
 ## 🤝 Contributing
 
@@ -87,11 +83,6 @@ Feel free to extend with:
 - More visualization options
 - Interactive Jupyter notebooks
 
-## 📝 License
 
-Educational use - freely available
-
----
-
-**Author**: Generated for educational purposes
+**Author**: Olivier Kanamugire
 **Date**: 2026
