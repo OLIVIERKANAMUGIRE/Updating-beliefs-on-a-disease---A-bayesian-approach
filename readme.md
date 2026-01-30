@@ -2,7 +2,7 @@
 
 A modular Python implementation for understanding Bayesian inference through simulated malaria test data.
 
-## 📋 Features
+## Features
 
 - **Modular Design**: Separated concerns across multiple files
 - **Statistical Functions**: Likelihood, priors, posteriors, credible intervals
@@ -75,7 +75,7 @@ config.PRIOR_INFO_BETA = 5
 ```
 
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to extend with:
 - Different likelihood functions
